@@ -30,6 +30,7 @@ The goal of this repository is to **develop strong deep learning skills** by exp
 
 ## 📅 Progress
 I’ll keep updating this repo with new notebooks, notes, and projects as I move forward through the course.
+11/09/25 - Part 1 ( 1. Getting Started )
 
 ---
 
