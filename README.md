@@ -32,7 +32,10 @@ The goal of this repository is to **develop strong deep learning skills** by exp
 I’ll keep updating this repo with new notebooks, notes, and projects as I move forward through the course.
 
 11/09/25 - Part 1 ( 1. Getting Started )
+
 12/09/25 - Part 2 ( 2. Deployment )
+
+13/09/25 - Part 3 ( 3. Neural net foundations )
 
 ---
 
