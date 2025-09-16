@@ -37,7 +37,9 @@ I’ll keep updating this repo with new notebooks, notes, and projects as I move
 
 13/09/25 - Part 3 ( 3. Neural net foundations )
 
-15/09/25 - Part 4 ( 4. Natural Language (NLP)
+15/09/25 - Part 4 ( 4. Natural Language (NLP) )
+
+16/09/25 - Part 5 ( 5. From Scratch Model )
 
 ---
 
