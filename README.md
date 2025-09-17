@@ -41,6 +41,8 @@ I’ll keep updating this repo with new notebooks, notes, and projects as I move
 
 16/09/25 - Part 5 ( 5. From Scratch Model )
 
+17/09/25 - Part 6 ( 6. Random Forests )
+
 ---
 
 ## 💡 Note
