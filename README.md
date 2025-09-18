@@ -43,6 +43,8 @@ I’ll keep updating this repo with new notebooks, notes, and projects as I move
 
 17/09/25 - Part 6 ( 6. Random Forests )
 
+19/09/25 - Part 7 ( 7. Collaborative Filtering )
+
 ---
 
 ## 💡 Note
