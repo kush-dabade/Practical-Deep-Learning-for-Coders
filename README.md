@@ -47,6 +47,7 @@ I’ll keep updating this repo with new notebooks, notes, and projects as I move
 
 20/09/25 - Part 8 ( 8. Convolutions (CNNs) )
 
+07/10/25 - Part 9 ( 9. Stable Diffusion )
 ---
 
 ## 💡 Note
