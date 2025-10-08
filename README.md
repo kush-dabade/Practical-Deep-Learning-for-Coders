@@ -51,6 +51,8 @@ I’ll keep updating this repo with new notebooks, notes, and projects as I move
 
 07/10/25 - Part 9 ( 9. Stable Diffusion )
 
+08/10/25 - Part 10 ( 10. Stable Diffusion - (Diving Deeper)  )
+
 ---
 
 ## 💡 Note
