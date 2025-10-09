@@ -53,6 +53,8 @@ I’ll keep updating this repo with new notebooks, notes, and projects as I move
 
 08/10/25 - Part 10 ( 10. Stable Diffusion - (Diving Deeper)  )
 
+09/10/25 - Part 11 ( 11. Matrix Multiplication )
+
 ---
 
 ## 💡 Note
