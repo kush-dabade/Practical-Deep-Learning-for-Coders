@@ -55,6 +55,8 @@ I’ll keep updating this repo with new notebooks, notes, and projects as I move
 
 09/10/25 - Part 11 ( 11. Matrix Multiplication )
 
+10/10/25 - Part 12 ( 12. Mean Shift Clustering )
+
 ---
 
 ## 💡 Note
